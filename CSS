@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="zh-tw">
+<head>
+<title>佛經選讀</title>   
+</head>
+<style>
+    h3{
+       font-family: cursive; 
+    }
+    .button1 {
+        background-color:gold;
+        color:black;
+        border: 2px solid black;
+    }
+    .button1:hover{
+        background-color: black;
+        color:white;
+    }
+    .button2{
+        background-color:green;
+        color: white;
+        border: 2px solid black; 
+    }
+    .button2:hover{
+        background-color: white;
+        color:black;
+    }
+    .button3{
+        background-color:seashell;
+        color:tomato;
+        border: 2px solid black;
+    }
+    .button3:hover{
+        background-color: rebeccapurple;
+        color:yellow;
+    }
+</style>
+<body style="background-color: rgb(179, 238, 15);">
+<button class = "button button1">佛光山官網</button> 
+<button class = "button button2">歌曲連結</button>
+<button class = "button button3">波若波羅蜜多心經</button>
+<a href="https://www.facebook.com/profile.php?id=100008510677569">指導老師FB</a> 
+<h1 style="font: size 60px;;">觀世音菩薩祈禱文</h1>
+<a title='資料來源,"維基百科"' style="color: rgb(37, 80, 199);" href="https://zh.wikipedia.org/zh-tw/%E8%A7%80%E4%B8%96%E9%9F%B3%E8%8F%A9%E8%96%A9">觀世音菩薩介紹<br></a>
+<img src="https://1.bp.blogspot.com/-XAavD5PyWKE/XZApoi37czI/AAAAAAAAGo8/IoAjdksHi34c155tzPFmXdaTK3ueRCPBgCNcBGAsYHQ/s1600/A-2%25E8%25A7%2580%25E4%25B8%2596%25E9%259F%25B3%25E8%258F%25A9%25E8%2596%25A9.jpg" alt="觀世音菩薩" width="200" height="237"> 
+<h3><b>演唱:莫爾根<b></h3>
+<hr>
+<p><strong>this is a test</strong></p>
+<p style="text-align: center;">
+    南無阿彌陀佛
+</p>
+<pre style="background-color: rgb(15, 219, 107);">
+彙集無量諸佛之悲心 珍愛無邊眾生如雙眸
+
+除您之外別無希求處 虔心祈禱鉤攝觀世音
+</pre>
+
+</body>
+</html>
